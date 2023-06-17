@@ -5,10 +5,11 @@ var clearScores = document.getElementById("clear")
 
 
 var allScore = []
+var newScore = []
 
-var newScore = JSON.parse(localStorage.getItem("score"))
+newScore = JSON.parse(localStorage.getItem("score"))
 if (newScore == null){
-    newScore = ""
+    newScore = []
 } 
 
 console.log(newScore)
