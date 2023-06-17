@@ -8,7 +8,7 @@ var allScore = []
 
 var newScore = JSON.parse(localStorage.getItem("score"))
 if (newScore == null){
-    newScore = ""
+    newScore = []
 } 
 
 console.log(newScore)
