@@ -7,6 +7,9 @@ var clearScores = document.getElementById("clear")
 var allScore = []
 
 var newScore = JSON.parse(localStorage.getItem("score"))
+if (newScore == null){
+    newScore = ""
+} 
 
 console.log(newScore)
 console.log((localStorage.getItem("score")))
@@ -19,10 +22,12 @@ function addScoreList () {
 
     
     for (i =0; i <newScore.length; i++) {
+        
         var listOfScore = document.createElement("li");
         listOfScore.innerHTML = newScore[i].join(" ")
         listOfScores.appendChild(listOfScore)
         console.log(newScore[i][1])
+        
     }
 }
 addScoreList ()
