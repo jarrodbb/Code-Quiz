@@ -73,24 +73,28 @@ The high score page also allows the user to clear all the scores or return to th
 
 
 ### Start of Quiz.
+![Screenshot 2023-06-18 at 5 52 14 pm](https://github.com/jarrodbb/Code-Quiz/assets/132813348/bc2765fe-cced-4a42-8398-74746bc334c1)
 
-
-#### Clicking the "Start Quiz" Button
-
-#### Question 1
+#### Clicking the "Start Quiz" Button. Question 1
+![Screenshot 2023-06-18 at 5 54 28 pm](https://github.com/jarrodbb/Code-Quiz/assets/132813348/eb063983-39be-47cf-bbad-467756239ef6)
 
 #### Question 2
+![Screenshot 2023-06-18 at 5 52 48 pm](https://github.com/jarrodbb/Code-Quiz/assets/132813348/16a647b5-deeb-4adb-8b77-cc2ff764d8f6)
 
 #### Question 3
+![Screenshot 2023-06-18 at 5 52 53 pm](https://github.com/jarrodbb/Code-Quiz/assets/132813348/4a9d7e56-dce8-4c76-a9ce-2be62db7a841)
 
 #### Question 4
+![Screenshot 2023-06-18 at 5 52 59 pm](https://github.com/jarrodbb/Code-Quiz/assets/132813348/8c5d6b78-e96a-4e5a-8d55-39320a9921af)
 
 #### End of Quiz
+![Screenshot 2023-06-18 at 5 53 06 pm](https://github.com/jarrodbb/Code-Quiz/assets/132813348/2975b8ff-ccfe-4612-ab7e-0d7064c4353e)
 
 #### Input initials 
+![Screenshot 2023-06-18 at 5 53 13 pm](https://github.com/jarrodbb/Code-Quiz/assets/132813348/d7e18675-fa3c-414a-9e9c-42855f99c570)
 
 #### Highscore page
-
+![Screenshot 2023-06-18 at 5 53 19 pm](https://github.com/jarrodbb/Code-Quiz/assets/132813348/1add6643-f710-48fd-a1c1-f78896612997)
 
 ## Credits
 
