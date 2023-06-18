@@ -1,14 +1,17 @@
+/* CSS for Quiz  */
 
-
+/* Padding and margins added  */
 body {
 	padding: 5px 25px;
 	margin:	25px;
 }
 
+/* paragraph fon size  */
 p {
 	font-size: 18px;
 }
 
+/* Formastting for the header  */
 .header-row {
 	display: flex;
     flex-wrap: wrap;
@@ -17,6 +20,7 @@ p {
     align-items: center;
 }
 
+/* Creates flex box  */
 .row {
 	display: flex;
     flex-wrap: wrap;
@@ -27,6 +31,7 @@ p {
 	margin:	25px;
 }
 
+/* start button made into a flex box  */
 .start-button-display {
 	display: flex;
     flex-wrap: wrap;
@@ -35,10 +40,12 @@ p {
     align-items: center;
 }
 
+/* Background colour added  */
 .start-quiz {
 	background-color: aquamarine;
 }
 
+/* High score button. Removes most of the styling  */
 #high-score {
     background: none;
 	color: inherit;
@@ -51,6 +58,7 @@ p {
 	font-size: 18px;
 }
 
+/* Formating the list. Changes background and text. adds a curved boarder  */
 li {
 	background-color: lightpink;
 	color: black;
@@ -64,15 +72,18 @@ li {
 
 }
 
+/* formatting for the button  */
 button {
 	background-color: aquamarine;
 	margin: 5px;
 }
 
+/* Formatting for the timer  */
 #timer {
 	margin: 5px;
 }
 
+/* formatting for when you hover over an answer display in the list  */
 li:hover {
 	background-color: sandybrown;
 }
